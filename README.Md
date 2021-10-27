@@ -1,5 +1,5 @@
 # Vitrina de trofeos
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ThePotatoCamera&row=2&column=3&theme=tokyonight)](https://github-profile-trophy.vercel.app/?username=ThePotatoCamera&row=2&column=3&theme=tokyonight&no-bg=true&no-frame=true)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ThePotatoCamera&row=2&column=3&theme=tokyonight&no-bg=true&no-frame=true)](https://github-profile-trophy.vercel.app/?username=ThePotatoCamera&row=2&column=3&no-bg=true&no-frame=true&theme=tokyonight)
 
 # Estadísitcas
 [![StatTrack](https://github-readme-stats.vercel.app/api?username=thepotatocamera&count_private=true&show_icons=true&include_all_commits=true&locale=es&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
